@@ -1,7 +1,7 @@
 # GASAIR 1.0.3 — Gassymixing
 
 Windows x64 VST3 动态高频增强效果器。采用独立开发的处理算法，目标是获得中高频存在感和高频空气感；并非 Fresh Air 的源码移植，也不承诺相同参数下声音或反相结果一致。
-
+![GASTELE](gasair.png)
 ## 安装
 
 1. 完整解压 `GASAIR-1.0.3-Windows-x64.zip`，不要直接在压缩包内运行安装文件。
