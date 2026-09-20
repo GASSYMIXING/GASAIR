@@ -1,0 +1,13 @@
+{
+  "vstgui-ui-description": {
+    "version": "1",
+    "templates": {
+      "GASAIR": {
+        "attributes": {"class":"CViewContainer","origin":"0, 0","size":"1536, 1024","transparent":"true"},
+        "children": {
+          "panel": {"attributes":{"class":"CView","custom-view-name":"GASAIRPanel","origin":"0, 0","size":"1536, 1024","transparent":"true","mouse-enabled":"true"}}
+        }
+      }
+    }
+  }
+}

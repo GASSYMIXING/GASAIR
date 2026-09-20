@@ -1,0 +1,28 @@
+GASAIR 1.0.3
+Copyright (c) 2026 Gassymixing
+
+This distribution's software source is provided under GNU GPL version 3;
+see LICENSE.txt. The corresponding source package accompanies this release.
+Third-party source files retain their own notices and applicable licenses.
+The accompanying illustration/artwork is a separate creative asset supplied
+and generated for this project; software licensing does not convey rights
+to unrelated third-party characters, trademarks or artwork.
+
+Steinberg VST3 SDK
+Copyright (c) Steinberg Media Technologies GmbH.
+This bundled SDK version offers the GNU GPL v3 licensing option, selected
+for this build, alongside its separately available proprietary agreement.
+See ThirdPartyLicenses/VST3-SDK-LICENSE.txt and per-file notices in source.
+VST is a trademark of Steinberg Media Technologies GmbH.
+
+VSTGUI
+Copyright (c) Steinberg Media Technologies GmbH and contributors.
+BSD-style license; see ThirdPartyLicenses/VSTGUI-LICENSE.txt and the source.
+
+This is an independently implemented dynamic frequency enhancer. Fresh Air
+and Slate Digital are referenced solely to identify the user's functional
+reference, with no affiliation or endorsement claimed. No Fresh Air DSP
+source, binary code or user interface artwork is used.
+
+SDK headers use BSD-style notices in addition to the root SDK terms. The
+full BSD notice is reproduced in ThirdPartyLicenses/Steinberg-BSD.txt.
